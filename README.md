@@ -1,6 +1,6 @@
 - Hi, I’m @zeokzook or Adam Tan
 - I’m interested in Games Development
-- I'm currently working as a Junior Games Programmer and has some knowledge on UE5.
+- I'm currently working as a Junior Games Programmer and currently developing a game in UE5.
 - I mainly do Gameplay Programming and has some basic knowledge on Materials, UMG UI and Unreal's Networking and Multiplayer
 
 <!---
